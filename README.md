@@ -1,9 +1,8 @@
 # Analysis-on-emerging-Technologies-and-trends
 
-## 📝 Introduction 
 The **Analysis on emerging Technologies and trends** is a capstone project for the **IBM Analytics Professional Certificate** on Coursera. 
 
-## 💬 Executive Summary
+## Executive Summary
 
 To remain competitive within the global IT industry, it is crucial to stay abreast of the rapidly evolving technologies. This report employs data analytics to identify current and anticipated trends in the demand for skills associated with programming languages, databases, and other technological areas. It also examines the demographic characteristics of professionals within the tech sector.
 
@@ -51,15 +50,22 @@ The intended audience for this research includes IT professionals, HR managers, 
 
 * Dashboards
 
+## Quick Links
+**Data Source:** [survey-data](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/VYPrOu0Vs3I0hKLLjiPGrA/survey-data-with-duplicate.csv) <br>
+
+**Tools:** <br>
+- Data cleaning & processing - Python on JupiterLite 
+- Data visualization - Looker Studio
+
 ## Process
 
 The basis for this analysis in the **Analysis on emerging Technologies and trends** and the steps for processing the data are as follow:
 
-website
+[Exploring the Dataset and Analysis on emerging Technologies and trends](https://github.com/Juliana-89/Analysis-on-emerging-Technologies-and-trends/blob/main/survey_results_IBM_Capstone_Project(3).ipynb)
 
 ## Results
 
-imagem
+![Top 10 Programming languages](https://github.com/Juliana-89/Analysis-on-emerging-Technologies-and-trends/blob/main/Top10Languages.png)
 
 ### Findings and Implications
 
@@ -79,7 +85,7 @@ imagem
   
 * SQL remains a crucial language for data professionals, making it vital for aspiring data analysts, data scientists, and business analysts to possess SQL skills.
 
-[Database Trends]()
+![Top 10 Databases](https://github.com/Juliana-89/Analysis-on-emerging-Technologies-and-trends/blob/main/Top10Databases.png)
 
 ### Findings and Implications
 
@@ -99,6 +105,11 @@ imagem
 
 ## Dashboards
 
+![DashBoard: Current Technology Trends](https://github.com/Juliana-89/Analysis-on-emerging-Technologies-and-trends/blob/main/Dashboard%201.jpg)
+
+![Dashboard: Future Technology Trends](https://github.com/Juliana-89/Analysis-on-emerging-Technologies-and-trends/blob/main/Dashboard%202.jpg)
+
+![Dashboard: Demographics](https://github.com/Juliana-89/Analysis-on-emerging-Technologies-and-trends/blob/main/Dashboard%203.jpg)
 
 ## Discussion
 
@@ -142,19 +153,25 @@ imagem
 
 * The Bar chart below shows the distribution of Respondents by the top 20 Countries.
 
-imagem
+![picture](https://github.com/Juliana-89/Analysis-on-emerging-Technologies-and-trends/blob/main/Distribution%20of%20Respondents%20by%20Country.png)
 
 #### Buble Chart
 
 * The bubble chart below shows the popularity of programming languages across age groups.
 
+![picture](https://github.com/Juliana-89/Analysis-on-emerging-Technologies-and-trends/blob/main/Popularity%20of%20Programming%20Languages%20by%20Age%20Group.jpg)
+
 #### Pie Chart
 
-* The pie chart below shows the top 5 operational systems.
+* The pie chart below shows the top 5 programming languages.
+
+![picture](https://github.com/Juliana-89/Analysis-on-emerging-Technologies-and-trends/blob/main/Top%205%20Programmimng%20Languages.png)
 
 #### Stacked Bar Chart
 
 * The stacked bar chart below shows preferred databases by age groups.
+
+![picture](https://github.com/Juliana-89/Analysis-on-emerging-Technologies-and-trends/blob/main/Preferred%20Databases%20by%20Age%20Group.jpg)
 
 
 
